@@ -1,4 +1,4 @@
-# CCDI Federation MCP SSE Server
+# CCDI Federation Model Context Protocol (MCP) server
 
 This project implements a Model Context Protocol (MCP) server for the Childhood Cancer Data Initiative (CCDI) Federation, enabling real-time communication using Server-Sent Events (SSE). It provides standardized endpoints for accessing and managing biological sample and file metadata across the CCDI Federation, supporting integration with MCP-compatible clients and tools.
 
